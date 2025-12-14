@@ -1,5 +1,6 @@
-function iletisim() {
-    document.getElementById("iletisim").scrollIntoView({
-        behavior: "smooth"
-    });
+function mesajGoster() {
+    alert("Tebrikler! JavaScript çalışıyor 🚀");
+}
+function formGonder() {
+    alert("Mesaj gönderildi (şimdilik sadece demo 😊)");
 }
